@@ -29,7 +29,6 @@
 
 ## 📚 Current Projects
 
-- 🔍 **AI-powered academic advisor bot** – Answers course and professor questions using NLP on Telegram
 - 🧠 **NLP RAG system** – Using FAISS + Transformers to build citation-aware question-answering models
 
 
