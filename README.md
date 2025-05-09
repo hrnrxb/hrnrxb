@@ -60,7 +60,6 @@
 
 ## 🎯 Goal
 
-> "My goal is to combine research-level NLP understanding with practical tools that solve problems for people — and to grow through a Direct PhD under professors who value impact and curiosity-driven science."
 
 ---
 
