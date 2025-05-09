@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name Here]  
+# 👋 Hi there! I'm [Hamid Namjoo]  
 
 ---
 
