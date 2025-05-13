@@ -2,9 +2,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B9AE&center=true&vCenter=true&width=500&lines=   Passionate+about+Natural+Language+Processing;Exploring+ML%2C+DL%2C+and+AI+step+by+step;Building+cool+AI+projects+%F0%9F%9A%80;Future+Direct+PhD+Applicant+in+CS;Let's+create+something+meaningful+together!"/>
-</p>
+### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/> GitHub Profile
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 ---
