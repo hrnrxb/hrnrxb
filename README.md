@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hamid
+# 👋 Hi, I'm Hamid https://em-content.zobj.net/source/apple/419/cowboy-hat-face_1f920.png
 
 ## 🔬 About Me
 - 🎓 Computer Engineering Student
