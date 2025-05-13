@@ -64,9 +64,17 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)](https://www.linkedin.com/in/hamid-namjoo)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamidnamjoo95@gmail.com)
+<div align="left">
+  <a href="https://www.linkedin.com/in/hamid-namjoo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="#" onclick="navigator.clipboard.writeText('hamid.namjoo@gmail.com'); alert('Email copied!'); return false;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
 
+
+###
 
 ---
 
