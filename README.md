@@ -68,7 +68,7 @@
   <a href="https://www.linkedin.com/in/hamid-namjoo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="#" onclick="navigator.clipboard.writeText('hamid.namjoo@gmail.com'); alert('Email copied!'); return false;">
+  <a href="hamidnamjoo95@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
