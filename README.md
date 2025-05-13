@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Hamid
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrnrxb&label=Profile%20views&color=0e75b6&style=flat" alt="hrnrxb" /> </p>
----
 
 ## 🔬 About Me
 - 🎓 Computer Engineering Student
@@ -65,7 +64,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hamid-namjoo)
+[![LinkedIn](https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif)](https://www.linkedin.com/in/hamid-namjoo)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hamidnamjoo95@gmail.com)
 
 
