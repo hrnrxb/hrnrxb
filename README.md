@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hamid <img src="https://em-content.zobj.net/source/apple/419/cowboy-hat-face_1f920.png" width="36" height="36" />
+# 👋 Hi, I'm Hamid <img src="https://em-content.zobj.net/source/apple/419/cowboy-hat-face_1f920.png" width="30" height="30" />
 
 ## 🔬 About Me
 - 🎓 Computer Engineering Student
