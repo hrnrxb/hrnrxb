@@ -1,10 +1,4 @@
-# 👋 Hi there! I'm [Hamid Namjoo]  
-
----
-
-### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/> GitHub Profile
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+# 👋 Hi, I'm Hamid
 
 
 ---
