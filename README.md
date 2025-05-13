@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Hamid
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrnrxb&label=Profile%20views&color=0e75b6&style=flat" alt="hrnrxb" /> </p>
-
 ## 🔬 About Me
 - 🎓 Computer Engineering Student
 - 💻 Junior Data Analyst
@@ -91,6 +89,7 @@
 
 
 
----
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hrnrxb/count.svg?"  />
+</div>
 
-> ⭐ *Feel free to explore my pinned repositories and ongoing projects. I'm always open to feedback, collaboration, and exciting discussions!*
