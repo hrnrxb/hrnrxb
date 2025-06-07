@@ -3,7 +3,7 @@
 ## 🔬 About Me
 - 🎓 Computer Engineering Student
 - 💻 Junior Data Analyst
-- 🔎 Passionate about **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**
+- 🔎 Passionate about **Natural Language Processing (NLP)**, **Deep Learning**, **Machine Learning**
 
 ---
 
