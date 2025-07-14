@@ -69,15 +69,16 @@
 
 ---
 
-## 💡 Interests
+## 💡 Interests & Areas of Exploration
 
-- 🧠 Exploring the depths of Natural Language Processing and language understanding  
-- 🤖 Building practical ML/DL-based tools that solve meaningful problems  
-- 📊 Applying data analysis and visualization to uncover patterns in real-world datasets  
-- 🧩 Breaking down AI research into simple, shareable insights  
-- 🛠️ Experimenting with transformers, embeddings, and retrieval-based systems (RAGs, AI Agents and so on.)
-- 🌐 Contributing to the open-source AI ecosystem in my own way  
-- 🎯 Continuously learning and improving through hands-on coding and community interaction
+* 🧠 Exploring the depths of **Natural Language Processing** and human language understanding.
+* 🤖 Building practical **ML/DL-based tools** that solve meaningful problems.
+* 📊 Applying **data analysis and visualization** to uncover patterns in real-world datasets.
+* 🧩 Breaking down complex AI research into simple, shareable insights.
+* 🛠️ Experimenting with transformers, embeddings, and cutting-edge retrieval-based systems (**RAGs, AI Agents**, and beyond!).
+* 🌐 Contributing to the open-source AI ecosystem in my own unique way.
+* 🎯 Continuously learning and improving through hands-on coding and active community interaction.
+
 
 
 
