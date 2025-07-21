@@ -7,6 +7,24 @@
 
 ---
 
+## 🌐 Connect With Me 
+
+<p align="left"> <a href="https://www.github.com/hrnrxb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/hamid-namjoo/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://hrnrxb.medium.com/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.youtube.com/@HamidDidIt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
+
+---
+
+## 💡 Interests & Areas of Exploration
+
+* 🧠 Exploring the depths of **Natural Language Processing** and human language understanding.
+* 🤖 Building practical **ML/DL-based tools** that solve meaningful problems.
+* 📊 Applying **data analysis and visualization** to uncover patterns in real-world datasets.
+* 🧩 Breaking down complex AI research into simple, shareable insights.
+* 🛠️ Experimenting with transformers, embeddings, and cutting-edge retrieval-based systems (**RAGs, AI Agents**, and beyond!).
+* 🌐 Contributing to the open-source AI ecosystem in my own unique way.
+* 🎯 Continuously learning and improving through hands-on coding and active community interaction.
+
+--- 
+
 ## 🚀 Tech Stack & Tools
 
 ### 🧠 Core Languages & Libraries  
@@ -89,32 +107,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=hrnrxb&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-## 🌐 Connect With Me 
-
-<p align="left"> <a href="https://www.github.com/hrnrxb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/hamid-namjoo/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://hrnrxb.medium.com/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.youtube.com/@HamidDidIt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
-
-
-
-###
-
----
-
-## 💡 Interests & Areas of Exploration
-
-* 🧠 Exploring the depths of **Natural Language Processing** and human language understanding.
-* 🤖 Building practical **ML/DL-based tools** that solve meaningful problems.
-* 📊 Applying **data analysis and visualization** to uncover patterns in real-world datasets.
-* 🧩 Breaking down complex AI research into simple, shareable insights.
-* 🛠️ Experimenting with transformers, embeddings, and cutting-edge retrieval-based systems (**RAGs, AI Agents**, and beyond!).
-* 🌐 Contributing to the open-source AI ecosystem in my own unique way.
-* 🎯 Continuously learning and improving through hands-on coding and active community interaction.
-
-
-
-
---- 
-
-![](https://komarev.com/ghpvc/?username=hrnrxb&color=blue)
 
 
