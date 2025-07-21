@@ -137,8 +137,7 @@
 <p align="center">
   <a href="https://github.com/hrnrxb">
     <img alt="hrnrxb Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hrnrxb&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
-  </a><a href="https://github.com/hrnrxb">
-    
+  </a><a href="https://github.com/hrnrxb">    
     <img alt="hrnrxb's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hrnrxb&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
   </a>
 </p>
