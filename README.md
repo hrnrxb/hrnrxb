@@ -86,7 +86,6 @@
 
 --- 
 
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=hrnrxb&color=blue)
-</div>
+![](https://komarev.com/ghpvc/?username=hrnrxb&color=blue)
+
 
