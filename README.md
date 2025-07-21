@@ -50,6 +50,15 @@
 
 
 ---
+<p>
+   <img  align="center" height="3px" width="99%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
+</p> 
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<p>
+   <img  align="center" height="3px" width="99%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
+</p> 
 
 ## 📈 GitHub Stats
 
@@ -71,15 +80,12 @@
 </a>
 
 
-
 ![hrnrxb Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrnrxb&custom_title=hrnrxb's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
 ## <img src="./image/fr.gif" width="30px" alt=""> GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hrnrxb&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-![](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
