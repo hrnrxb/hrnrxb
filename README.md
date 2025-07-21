@@ -40,19 +40,20 @@
   </a>
   <a href="https://huggingface.co/hrnrxb" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/huggingface-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/huggingface.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/huggingface.svg" width="32" height="32" alt="Hugging Face" title="Hugging Face" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/405838/hugging-face.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/405838/hugging-face.svg" />
+      <img src="https://www.svgrepo.com/show/405838/hugging-face.svg" width="32" height="32" alt="Hugging Face" title="Hugging Face" />
     </picture>
   </a>
   <a href="https://www.kaggle.com/hrnrxb" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/kaggle-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/kaggle.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/kaggle.svg" width="32" height="32" alt="Kaggle" title="Kaggle" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/349422/kaggle.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/349422/kaggle.svg" />
+      <img src="https://www.svgrepo.com/show/349422/kaggle.svg" width="32" height="32" alt="Kaggle" title="Kaggle" />
     </picture>
   </a>
 </p>
+
 
 ---
 
