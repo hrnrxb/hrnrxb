@@ -53,6 +53,28 @@
 
 ## 📈 GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/hrnrxb">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrnrxb&theme=radical" alt="hrnrxb GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+  <a href="https://github.com/hrnrxb"><img alt="hrnrxb Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hrnrxb&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  
+  <a href="https://github.com/hrnrxb"><img alt="hrnrxb's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hrnrxb&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+
+![hrnrxb Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrnrxb&custom_title=hrnrxb's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+
+## <img src="./image/fr.gif" width="30px" alt=""> GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hrnrxb&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
 <a href="http://www.github.com/hrnrxb"><img src="https://github-readme-stats.vercel.app/api?username=hrnrxb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hrnrxb's GitHub stats" /></a>
