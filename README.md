@@ -1,9 +1,16 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Hamid <img src="https://em-content.zobj.net/source/apple/419/cowboy-hat-face_1f920.png" width="30" height="30" />
 
 ## 🔬 About Me
-- 🎓 Computer Engineering Student
-- 💻 Junior Data Analyst
-- 🔎 Passionate about **Natural Language Processing (NLP)**, **Deep Learning**, **Machine Learning**
+
+- 🎓 Senior Computer Engineering student with a strong academic background and a passion for pushing the boundaries of Artificial Intelligence.
+- 💡 Deeply fascinated by **Natural Language Processing (NLP)**, **Deep Learning**, and **Machine Learning**, with a particular interest in:
+    - **Large Language Models (LLMs)**: Their architecture, fine-tuning, and application.
+    - **AI Agents & Multi-Agent Systems**: Designing autonomous and collaborative AI entities.
+    - **Explainable AI (XAI)**: Making complex models transparent and interpretable.
+    - **Retrieval-Augmented Generation (RAG)**: Enhancing LLMs with external knowledge.
+- 💻 Junior Data Analyst with practical experience in data manipulation and insight generation.
+- 🚀 Committed to **advanced research and innovation in NLP**, with a vision to make impactful contributions to the field.
+- 🌐 Actively contributing to the open-source AI ecosystem and exploring new frontiers in AI research.
 
 ---
 
@@ -57,17 +64,71 @@
 
 ---
 
-## 💡 Interests & Areas of Exploration
+## 💡 Research Interests & Future Explorations
 
-* 🧠 Exploring the depths of **Natural Language Processing** and human language understanding.
-* 🤖 Building practical **ML/DL-based tools** that solve meaningful problems.
-* 📊 Applying **data analysis and visualization** to uncover patterns in real-world datasets.
-* 🧩 Breaking down complex AI research into simple, shareable insights.
-* 🛠️ Experimenting with transformers, embeddings, and cutting-edge retrieval-based systems (**RAGs, AI Agents**, and beyond!).
-* 🌐 Contributing to the open-source AI ecosystem in my own unique way.
-* 🎯 Continuously learning and improving through hands-on coding and active community interaction.
+My passion lies at the intersection of theoretical advancements and practical applications in AI. I am particularly keen on exploring:
+
+* 🧠 **Advanced NLP Architectures:** Diving deeper into novel transformer models, efficient attention mechanisms, and multimodal NLP.
+* 🤖 **Autonomous AI Agents & Multi-Agent Systems:** Researching robust planning, memory management, and self-correction mechanisms for intelligent agents, especially in collaborative environments.
+* 📚 **Knowledge-Grounded LLMs & RAG:** Enhancing Large Language Models with external knowledge bases to reduce hallucinations, improve factual accuracy, and enable complex reasoning.
+* 🔍 **Explainable AI (XAI) for Complex Models:** Developing methods to understand and interpret the decisions of black-box deep learning models.
+* 📊 **Scalable Data Pipelines for AI:** Optimizing data processing and feature engineering for large-scale ML/DL projects, ensuring efficiency and reliability.
+* 🌐 **Ethical AI & Bias Mitigation:** Investigating fairness, accountability, and transparency in AI systems to build responsible technology.
+* 🚀 **Open-Source Contributions:** Actively seeking opportunities to contribute to impactful open-source AI projects and collaborate with the wider community.
 
 --- 
+
+## 🌟 Featured Research & Projects
+
+Here are some of my key projects and research explorations that highlight my interests and capabilities in NLP and AI. Each project link leads to its dedicated repository with detailed documentation.
+
+### 🤖 Retrieval-Augmented Academic Advisor Chatbot
+* **Date:** March 2025
+* **Problem:** Developing a system for querying real-world course and professor reviews.
+* **Solution:** Developed a chatbot using **RAG (Retrieval-Augmented Generation)**. Combined **FAISS**, **Pandas**, and **Hugging Face models for embeddings** to build a scalable question-answering system over semi-structured data.
+* **Technologies:** Python, RAG, FAISS, Pandas, Hugging Face Transformers, LangChain.
+* **Links:**
+    * [➤ GitHub Repo](https://github.com/hrnrxb/IAUCourseExp-Adviser-bot)
+    * [➤ Dataset](https://huggingface.co/datasets/IAUCourseExp/TajrobiatExpriences-till14ordibehest1404)
+    * [➤ Live Demo](https://huggingface.co/spaces/IAUCourseExp/Tajrobiat_Bot)
+
+### 🧠 Advanced Sentiment Classifier (RoBERTa + BiLSTM + Attention)
+* **Date:** July 2025
+* **Problem:** Building a sentiment analysis model capable of handling sarcasm, irony, and mixed opinions.
+* **Solution:** Built a hybrid deep model combining **RoBERTa embeddings** with a **BiLSTM** and an **Attention Mechanism** to model subtle language signals. Tuned on IMDB and enhanced with sarcastic samples and custom error analysis. Designed for multilingual support (e.g., Persian with `xlm-roberta`).
+* **Technologies:** Python, PyTorch, RoBERTa, BiLSTM, Attention, Gradio, Hugging Face Spaces.
+* **Links:**
+    * [➤ GitHub Repo](https://github.com/hrnrxb/Advanced-Sentiment-Classifier-RoBERTa-BiLSTM-Attention)
+    * [➤ Live Demo](https://huggingface.co/spaces/hrnrxb/roberta-bilstm-attention-sentiment)
+    * [➤ HF Model](https://huggingface.co/hrnrxb/roberta-bilstm-attention-sentiment)
+    * [➤ Dataset](https://huggingface.co/datasets/imdb)
+
+### 🚀 AI News Aggregator Bot (Automated, Real-time)
+* **Date:** July 2025
+* **Problem:** Efficiently aggregating cutting-edge AI news, papers, and repositories from diverse sources.
+* **Solution:** Developed a robust **Python-powered Telegram bot** for real-time aggregation and delivery. Utilized **RSS feeds**, **web scraping (GitHub Trending)**, and **Hacker News API** for source integration. Implemented **persistent storage (SQLite)** for duplicate prevention and deployed via **GitHub Actions** for automated, scheduled updates.
+* **Technologies:** Python, RSS, Web Scraping, GitHub API, SQLite, GitHub Actions, Telegram API.
+* **Links:**
+    * [➤ GitHub Repo](https://github.com/hrnrxb/AI-News-Aggregator-Bot)
+
+### 🗣️ Text-to-Speech (TTS) Bot with Adjustable Voice Parameters
+* **Date:** July 2025
+* **Problem:** Creating an interactive web-deployable TTS system with customizable voice parameters.
+* **Solution:** Engineered the system using **Coqui TTS** for high-quality audio generation and **Gradio** for a user-friendly interface. Implemented waveform visualization and deployed successfully on **Hugging Face Spaces**, showcasing proficiency in audio processing and cloud deployment.
+* **Technologies:** Python, Coqui TTS, Gradio, Hugging Face Spaces.
+* **Links:**
+    * [➤ GitHub Repo](https://github.com/hrnrxb/TTS-with-Adjustable-Voice-Parameters)
+    * [➤ Live Demo](https://huggingface.co/spaces/hrnrxb/TTS-with-Adjustable-Voice-Parameters)
+
+### 🔬 Research Assistant Project: AI-Aided Engineering Design
+* **Date:** Oct 2023 – Dec 2023
+* **Problem:** Contributing to an interdisciplinary research project on AI-aided prototyping and 3D printing.
+* **Contribution:** Developed a **mobile application** to present technical information for visitors and judges at a national exhibition. Project recognized among **top innovations of the year** in Iran's 2023 exhibition.
+* **Technologies:** (Specifics from your side, e.g., Python, Mobile Dev Framework, 3D Modeling tools)
+* **Links:**
+    * [➤ GitHub Repo](#)
+
+---
 
 ## 🚀 Tech Stack & Tools
 
