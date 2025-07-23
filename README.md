@@ -100,6 +100,7 @@ This section outlines the programming languages, frameworks, libraries, and tool
 [![Polyglot](https://img.shields.io/badge/-Polyglot-4B0082?style=for-the-badge)](https://polyglot.readthedocs.io/en/latest/)
 [![Fairseq](https://img.shields.io/badge/-Fairseq-1E90FF?style=for-the-badge)](https://github.com/facebookresearch/fairseq)
 [![Jina](https://img.shields.io/badge/-Jina-000000?style=for-the-badge&logo=jina&logoColor=white)](https://jina.ai/)
+[![LangChain](https://img.shields.io/badge/-LangChain-222222?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
 
 ### 📊 Data Analysis & Visualization
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -112,7 +113,6 @@ This section outlines the programming languages, frameworks, libraries, and tool
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![FAISS](https://img.shields.io/badge/-FAISS-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/facebookresearch/faiss)
-[![LangChain](https://img.shields.io/badge/-LangChain-222222?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
 
 ### 🚀 MLOps & Deployment
 [![Weights & Biases](https://img.shields.io/badge/-WandB-FFC0CB?style=for-the-badge&logo=weightsandbiases&logoColor=black)](https://wandb.ai/)
@@ -124,7 +124,8 @@ This section outlines the programming languages, frameworks, libraries, and tool
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
+[![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)](https://colab.research.google.com/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 
 
