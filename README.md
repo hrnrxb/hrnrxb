@@ -78,7 +78,7 @@ My passion lies at the intersection of theoretical advancements and practical ap
 
 --- 
 
-## 🌟 Featured Research & Projects
+## 🌟 Featured Research & Selected Projects
 
 Here are some of my key projects and research explorations that highlight my interests and capabilities in NLP and AI. Each project link leads to its dedicated repository with detailed documentation.
 
