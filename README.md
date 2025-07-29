@@ -1,5 +1,6 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Hamid <img src="https://em-content.zobj.net/source/apple/419/cowboy-hat-face_1f920.png" width="30" height="30" />
 
+
 ## 🔬 About Me
 
 - 🎓 Senior Computer Engineering student with a strong academic background and a passion for pushing the boundaries of Artificial Intelligence.
