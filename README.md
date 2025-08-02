@@ -83,16 +83,37 @@ My passion lies at the intersection of theoretical advancements and practical ap
 
 Here are some of my key projects and research explorations that highlight my interests and capabilities in NLP and AI. Each project link leads to its dedicated repository with detailed documentation.
 
-### 🤖 Retrieval-Augmented Academic Advisor Chatbot
-* **Date:** March 2025
-* **Problem:** Developing a system for querying real-world course and professor reviews.
-* **Solution:** Developed a chatbot using **RAG (Retrieval-Augmented Generation)**. Combined **FAISS**, **Pandas**, and **Hugging Face models for embeddings** to build a scalable question-answering system over semi-structured data.
-* **Technologies:** Python, RAG, FAISS, Pandas, Hugging Face Transformers, LangChain.
-* **Links:**
-    * [➤ GitHub Repo](https://github.com/hrnrxb/IAUCourseExp-Adviser-bot)
-    * [➤ Dataset](https://huggingface.co/datasets/IAUCourseExp/TajrobiatExpriences-till14ordibehest1404)
-    * [➤ Live Demo](https://huggingface.co/spaces/IAUCourseExp/Tajrobiat_Bot)
 
+### 📊 Sorting Algorithm Visualizer (Interactive Web App)
+
+* **Date:** August 2025
+* **Problem:** Understanding the step-by-step execution and comparative efficiency of various sorting algorithms can be abstract.
+* **Solution:** Developed an **interactive web application** that visually demonstrates the real-time sorting process of multiple algorithms. Features include dynamic array generation, adjustable animation speed, live performance metrics (comparisons, swaps, actual execution time), and a historical log of previous runs. This tool provides clear, actionable insights into algorithm behavior.
+* **Technologies:** HTML, CSS (Tailwind CSS), JavaScript.
+* **Links:**
+    * [➤ GitHub Repo](https://github.com/hrnrxb/sorting_algo)
+    * [➤ Live Demo](https://ds-fall2025.github.io/sorting_algo/)
+
+
+### 🗣️ Text-to-Speech (TTS) Bot with Adjustable Voice Parameters
+* **Date:** July 2025
+* **Problem:** Creating an interactive web-deployable TTS system with customizable voice parameters.
+* **Solution:** Engineered the system using **Coqui TTS** for high-quality audio generation and **Gradio** for a user-friendly interface. Implemented waveform visualization and deployed successfully on **Hugging Face Spaces**, showcasing proficiency in audio processing and cloud deployment.
+* **Technologies:** Python, Coqui TTS, Gradio, Hugging Face Spaces.
+* **Links:**
+    * [➤ GitHub Repo](https://github.com/hrnrxb/TTS-with-Adjustable-Voice-Parameters)
+    * [➤ Live Demo](https://huggingface.co/spaces/hrnrxb/TTS-with-Adjustable-Voice-Parameters)
+
+ 
+### 🚀 AI News Aggregator Bot (Automated, Real-time)
+* **Date:** July 2025
+* **Problem:** Efficiently aggregating cutting-edge AI news, papers, and repositories from diverse sources.
+* **Solution:** Developed a robust **Python-powered Telegram bot** for real-time aggregation and delivery. Utilized **RSS feeds**, **web scraping (GitHub Trending)**, and **Hacker News API** for source integration. Implemented **persistent storage (SQLite)** for duplicate prevention and deployed via **GitHub Actions** for automated, scheduled updates.
+* **Technologies:** Python, RSS, Web Scraping, GitHub API, SQLite, GitHub Actions, Telegram API.
+* **Links:**
+    * [➤ GitHub Repo](https://github.com/hrnrxb/AI-News-Aggregator-Bot)
+
+ 
 ### 🧠 Advanced Sentiment Classifier (RoBERTa + BiLSTM + Attention)
 * **Date:** July 2025
 * **Problem:** Building a sentiment analysis model capable of handling sarcasm, irony, and mixed opinions.
@@ -103,23 +124,18 @@ Here are some of my key projects and research explorations that highlight my int
     * [➤ Live Demo](https://huggingface.co/spaces/hrnrxb/roberta-bilstm-attention-sentiment)
     * [➤ HF Model](https://huggingface.co/hrnrxb/roberta-bilstm-attention-sentiment)
     * [➤ Dataset](https://huggingface.co/datasets/imdb)
+ 
 
-### 🚀 AI News Aggregator Bot (Automated, Real-time)
-* **Date:** July 2025
-* **Problem:** Efficiently aggregating cutting-edge AI news, papers, and repositories from diverse sources.
-* **Solution:** Developed a robust **Python-powered Telegram bot** for real-time aggregation and delivery. Utilized **RSS feeds**, **web scraping (GitHub Trending)**, and **Hacker News API** for source integration. Implemented **persistent storage (SQLite)** for duplicate prevention and deployed via **GitHub Actions** for automated, scheduled updates.
-* **Technologies:** Python, RSS, Web Scraping, GitHub API, SQLite, GitHub Actions, Telegram API.
+### 🤖 Retrieval-Augmented Academic Advisor Chatbot
+* **Date:** March 2025
+* **Problem:** Developing a system for querying real-world course and professor reviews.
+* **Solution:** Developed a chatbot using **RAG (Retrieval-Augmented Generation)**. Combined **FAISS**, **Pandas**, and **Hugging Face models for embeddings** to build a scalable question-answering system over semi-structured data.
+* **Technologies:** Python, RAG, FAISS, Pandas, Hugging Face Transformers, LangChain.
 * **Links:**
-    * [➤ GitHub Repo](https://github.com/hrnrxb/AI-News-Aggregator-Bot)
+    * [➤ GitHub Repo](https://github.com/hrnrxb/IAUCourseExp-Adviser-bot)
+    * [➤ Dataset](https://huggingface.co/datasets/IAUCourseExp/TajrobiatExpriences-till14ordibehest1404)
+    * [➤ Live Demo](https://huggingface.co/spaces/IAUCourseExp/Tajrobiat_Bot)
 
-### 🗣️ Text-to-Speech (TTS) Bot with Adjustable Voice Parameters
-* **Date:** July 2025
-* **Problem:** Creating an interactive web-deployable TTS system with customizable voice parameters.
-* **Solution:** Engineered the system using **Coqui TTS** for high-quality audio generation and **Gradio** for a user-friendly interface. Implemented waveform visualization and deployed successfully on **Hugging Face Spaces**, showcasing proficiency in audio processing and cloud deployment.
-* **Technologies:** Python, Coqui TTS, Gradio, Hugging Face Spaces.
-* **Links:**
-    * [➤ GitHub Repo](https://github.com/hrnrxb/TTS-with-Adjustable-Voice-Parameters)
-    * [➤ Live Demo](https://huggingface.co/spaces/hrnrxb/TTS-with-Adjustable-Voice-Parameters)
 
 ### 🔬 Research Assistant Project: AI-Aided Engineering Design
 * **Date:** Oct 2023 – Dec 2023
