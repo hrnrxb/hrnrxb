@@ -83,6 +83,15 @@ My passion lies at the intersection of theoretical advancements and practical ap
 
 Here are some of my key projects and research explorations that highlight my interests and capabilities in NLP and AI. Each project link leads to its dedicated repository with detailed documentation.
 
+### 🔍 Advanced Code Plagiarism Detection Tool
+
+* **Date:** August 2025
+* **Problem:** Manually detecting code plagiarism among student submissions is time-consuming and error-prone, especially when students rename variables or reformat code.
+* **Solution:** Built an **advanced plagiarism detection tool** that analyzes Python code structure using ASTs, TF-IDF, and multiple similarity metrics. The system normalizes variable names, extracts structural fingerprints, and generates visual reports (network graphs & dashboards) to highlight suspicious pairs with risk levels.
+* **Technologies:** Python and it's libraries: `ast`, `pandas`, `networkx`, `matplotlib`, `seaborn`, `sklearn`, `difflib`
+* **Links:**
+    * [➤ GitHub Repo](https://github.com/hrnrxb/Advanced-Code-Plagiarism-Detection-Tool)
+
 
 ### 📊 Sorting Algorithm Visualizer (Interactive Web App)
 
