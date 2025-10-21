@@ -9,7 +9,7 @@
     - **AI Agents & Multi-Agent Systems**: Designing autonomous and collaborative AI entities.
     - **Explainable AI (XAI)**: Making complex models transparent and interpretable.
     - **Retrieval-Augmented Generation (RAG)**: Enhancing LLMs with external knowledge.
-- 💻 Junior Data Analyst with practical experience in data manipulation and insight generation.
+- 💻 Ex-Junior Data Analyst with practical experience in data manipulation and insight generation.
 - 🚀 Committed to **advanced research and innovation in NLP**, with a vision to make impactful contributions to the field.
 - 🌐 Actively contributing to the open-source AI ecosystem and exploring new frontiers in AI research.
 
