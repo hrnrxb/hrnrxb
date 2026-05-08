@@ -5,7 +5,7 @@
 
 - 🎓 Senior Computer Engineering student with a strong academic background and a passion for pushing the boundaries of Artificial Intelligence.
 - 💡 Deeply fascinated by **Natural Language Processing (NLP)**, **Deep Learning**, and **Machine Learning**, with a particular interest in:
-    - **Large Language Models (LLMs)**: Their architecture, fine-tuning, and application.
+    - **Large Language Models (LLMs)**: Their architecture, fine-tuning, and applications in real-world problems.
     - **AI Agents & Multi-Agent Systems**: Designing autonomous and collaborative AI entities.
     - **Explainable AI (XAI)**: Making complex models transparent and interpretable.
     - **Retrieval-Augmented Generation (RAG)**: Enhancing LLMs with external knowledge.
