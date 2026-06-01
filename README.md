@@ -1,260 +1,200 @@
-# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Hamid <img src="https://em-content.zobj.net/source/apple/419/cowboy-hat-face_1f920.png" width="30" height="30" />
-
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Hamid <img src="https://em-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="0" height="0"> <img src="https://em-content.zobj.net/source/apple/419/cowboy-hat-face_1f920.png" width="30" height="30" />
 
 ## 🔬 About Me
 
-- 🎓 Senior Computer Engineering student with a strong academic background and a passion for pushing the boundaries of Artificial Intelligence.
-- 💡 Deeply fascinated by **Natural Language Processing (NLP)**, **Deep Learning**, and **Machine Learning**, with a particular interest in:
-    - **Large Language Models (LLMs)**: Their architecture, fine-tuning, and applications in real-world problems.
-    - **AI Agents & Multi-Agent Systems**: Designing autonomous and collaborative AI entities.
-    - **Explainable AI (XAI)**: Making complex models transparent and interpretable.
-    - **Retrieval-Augmented Generation (RAG)**: Enhancing LLMs with external knowledge.
-- 💻 Ex-Junior Data Analyst with practical experience in data manipulation and insight generation.
-- 🚀 Committed to **advanced research and innovation in NLP**, with a vision to make impactful contributions to the field.
-- 🌐 Actively contributing to the open-source AI ecosystem and exploring new frontiers in AI research.
-
----
-
-## 🌐 Connect With Me 
-
-<p align="left">
-  <a href="https://www.github.com/hrnrxb" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" />
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/hamid-namjoo/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-    </picture>
-  </a>
-  <a href="https://hrnrxb.medium.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" />
-    </picture>
-  </a>
-  <a href="https://www.youtube.com/@HamidDidIt" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" />
-    </picture>
-  </a>
-  <a href="https://huggingface.co/hrnrxb" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/405838/hugging-face.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/405838/hugging-face.svg" />
-      <img src="https://www.svgrepo.com/show/405838/hugging-face.svg" width="32" height="32" alt="Hugging Face" title="Hugging Face" />
-    </picture>
-  </a>
-  <a href="https://www.kaggle.com/hrnrxb" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://www.svgrepo.com/show/349422/kaggle.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/349422/kaggle.svg" />
-      <img src="https://www.svgrepo.com/show/349422/kaggle.svg" width="32" height="32" alt="Kaggle" title="Kaggle" />
-    </picture>
-  </a>
-</p>
-
-
----
-
-## 💡 Research Interests & Future Explorations
-
-My passion lies at the intersection of theoretical advancements and practical applications in AI. I am particularly keen on exploring:
-
-* 🧠 **Advanced NLP Architectures:** Diving deeper into novel transformer models, efficient attention mechanisms, and multimodal NLP.
-* 🤖 **Autonomous AI Agents & Multi-Agent Systems:** Researching robust planning, memory management, and self-correction mechanisms for intelligent agents, especially in collaborative environments.
-* 📚 **Knowledge-Grounded LLMs & RAG:** Enhancing Large Language Models with external knowledge bases to reduce hallucinations, improve factual accuracy, and enable complex reasoning.
-* 🔍 **Explainable AI (XAI) for Complex Models:** Developing methods to understand and interpret the decisions of black-box deep learning models.
-* 📊 **Scalable Data Pipelines for AI:** Optimizing data processing and feature engineering for large-scale ML/DL projects, ensuring efficiency and reliability.
-* 🌐 **Ethical AI & Bias Mitigation:** Investigating fairness, accountability, and transparency in AI systems to build responsible technology.
-* 🚀 **Open-Source Contributions:** Actively seeking opportunities to contribute to impactful open-source AI projects and collaborate with the wider community.
-
---- 
-
-## 🌟 Featured Research & Selected Projects
-
-Here are some of my key projects and research explorations that highlight my interests and capabilities in NLP and AI. Each project link leads to its dedicated repository with detailed documentation.
-
-### 🔍 Advanced Code Plagiarism Detection Tool
-
-* **Date:** August 2025
-* **Problem:** Manually detecting code plagiarism among student submissions is time-consuming and error-prone, especially when students rename variables or reformat code.
-* **Solution:** Built an **advanced plagiarism detection tool** that analyzes Python code structure using ASTs, TF-IDF, and multiple similarity metrics. The system normalizes variable names, extracts structural fingerprints, and generates visual reports (network graphs & dashboards) to highlight suspicious pairs with risk levels.
-* **Technologies:** Python and it's libraries: `ast`, `pandas`, `networkx`, `matplotlib`, `seaborn`, `sklearn`, `difflib`
-* **Links:**
-    * [➤ GitHub Repo](https://github.com/hrnrxb/Advanced-Code-Plagiarism-Detection-Tool)
-
-
-### 📊 Sorting Algorithm Visualizer (Interactive Web App)
-
-* **Date:** August 2025
-* **Problem:** Understanding the step-by-step execution and comparative efficiency of various sorting algorithms can be abstract.
-* **Solution:** Developed an **interactive web application** that visually demonstrates the real-time sorting process of multiple algorithms. Features include dynamic array generation, adjustable animation speed, live performance metrics (comparisons, swaps, actual execution time), and a historical log of previous runs. This tool provides clear, actionable insights into algorithm behavior.
-* **Technologies:** HTML, CSS (Tailwind CSS), JavaScript.
-* **Links:**
-    * [➤ GitHub Repo](https://github.com/hrnrxb/sorting_algo)
-    * [➤ Live Demo](https://ds-fall2025.github.io/sorting_algo/)
-
-
-### 🗣️ Text-to-Speech (TTS) Bot with Adjustable Voice Parameters
-* **Date:** July 2025
-* **Problem:** Creating an interactive web-deployable TTS system with customizable voice parameters.
-* **Solution:** Engineered the system using **Coqui TTS** for high-quality audio generation and **Gradio** for a user-friendly interface. Implemented waveform visualization and deployed successfully on **Hugging Face Spaces**, showcasing proficiency in audio processing and cloud deployment.
-* **Technologies:** Python, Coqui TTS, Gradio, Hugging Face Spaces.
-* **Links:**
-    * [➤ GitHub Repo](https://github.com/hrnrxb/TTS-with-Adjustable-Voice-Parameters)
-    * [➤ Live Demo](https://huggingface.co/spaces/hrnrxb/TTS-with-Adjustable-Voice-Parameters)
-
- 
-### 🚀 AI News Aggregator Bot (Automated, Real-time)
-* **Date:** July 2025
-* **Problem:** Efficiently aggregating cutting-edge AI news, papers, and repositories from diverse sources.
-* **Solution:** Developed a robust **Python-powered Telegram bot** for real-time aggregation and delivery. Utilized **RSS feeds**, **web scraping (GitHub Trending)**, and **Hacker News API** for source integration. Implemented **persistent storage (SQLite)** for duplicate prevention and deployed via **GitHub Actions** for automated, scheduled updates.
-* **Technologies:** Python, RSS, Web Scraping, GitHub API, SQLite, GitHub Actions, Telegram API.
-* **Links:**
-    * [➤ GitHub Repo](https://github.com/hrnrxb/AI-News-Aggregator-Bot)
-
- 
-### 🧠 Advanced Sentiment Classifier (RoBERTa + BiLSTM + Attention)
-* **Date:** July 2025
-* **Problem:** Building a sentiment analysis model capable of handling sarcasm, irony, and mixed opinions.
-* **Solution:** Built a hybrid deep model combining **RoBERTa embeddings** with a **BiLSTM** and an **Attention Mechanism** to model subtle language signals. Tuned on IMDB and enhanced with sarcastic samples and custom error analysis. Designed for multilingual support (e.g., Persian with `xlm-roberta`).
-* **Technologies:** Python, PyTorch, RoBERTa, BiLSTM, Attention, Gradio, Hugging Face Spaces.
-* **Links:**
-    * [➤ GitHub Repo](https://github.com/hrnrxb/Advanced-Sentiment-Classifier-RoBERTa-BiLSTM-Attention)
-    * [➤ Live Demo](https://huggingface.co/spaces/hrnrxb/roberta-bilstm-attention-sentiment)
-    * [➤ HF Model](https://huggingface.co/hrnrxb/roberta-bilstm-attention-sentiment)
-    * [➤ Dataset](https://huggingface.co/datasets/imdb)
- 
-
-### 🤖 Retrieval-Augmented Academic Advisor Chatbot
-* **Date:** March 2025
-* **Problem:** Developing a system for querying real-world course and professor reviews.
-* **Solution:** Developed a chatbot using **RAG (Retrieval-Augmented Generation)**. Combined **FAISS**, **Pandas**, and **Hugging Face models for embeddings** to build a scalable question-answering system over semi-structured data.
-* **Technologies:** Python, RAG, FAISS, Pandas, Hugging Face Transformers, LangChain.
-* **Links:**
-    * [➤ GitHub Repo](https://github.com/hrnrxb/IAUCourseExp-Adviser-bot)
-    * [➤ Dataset](https://huggingface.co/datasets/IAUCourseExp/TajrobiatExpriences-till14ordibehest1404)
-    * [➤ Live Demo](https://huggingface.co/spaces/IAUCourseExp/Tajrobiat_Bot)
-
-
-### 🔬 Research Assistant Project: AI-Aided Engineering Design
-* **Date:** Oct 2023 – Dec 2023
-* **Problem:** Contributing to an interdisciplinary research project on AI-aided prototyping and 3D printing.
-* **Contribution:** Developed a **mobile application** to present technical information for visitors and judges at a national exhibition. Project recognized among **top innovations of the year** in Iran's 2023 exhibition.
-* **Technologies:** (Specifics from your side, e.g., Python, Mobile Dev Framework, 3D Modeling tools)
-* **Links:**
-    * [➤ GitHub Repo](#)
-
----
-
-## 🚀 Tech Stack & Tools
-
-This section outlines the programming languages, frameworks, libraries, and tools I utilize in my work and projects.
-
-### 💻 Programming Languages
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### 🧠 Machine Learning & Deep Learning Frameworks
-[![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-[![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/-XGBoost-006699?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.ai/)
-[![LightGBM](https://img.shields.io/badge/-LightGBM-026636?style=for-the-badge&logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/en/latest/)
-
-### 🗣️ Natural Language Processing (NLP) Libraries
-[![Hugging Face Transformers](https://img.shields.io/badge/-HuggingFace%20Transformers-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/docs/transformers/index)
-[![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/)
-[![NLTK](https://img.shields.io/badge/-NLTK-306998?style=for-the-badge&logo=nltk&logoColor=white)](https://www.nltk.org/)
-[![Gensim](https://img.shields.io/badge/-Gensim-666666?style=for-the-badge&logo=gensim&logoColor=white)](https://radimrehurek.com/gensim/)
-[![Pattern](https://img.shields.io/badge/-Pattern-FF6600?style=for-the-badge)](https://www.clips.uantwerpen.be/pages/pattern)
-[![TextBlob](https://img.shields.io/badge/-TextBlob-008000?style=for-the-badge)](https://textblob.readthedocs.io/en/dev/)
-[![CoreNLP](https://img.shields.io/badge/-CoreNLP-800080?style=for-the-badge)](https://stanfordnlp.github.io/CoreNLP/)
-[![Polyglot](https://img.shields.io/badge/-Polyglot-4B0082?style=for-the-badge)](https://polyglot.readthedocs.io/en/latest/)
-[![Fairseq](https://img.shields.io/badge/-Fairseq-1E90FF?style=for-the-badge)](https://github.com/facebookresearch/fairseq)
-[![Jina](https://img.shields.io/badge/-Jina-000000?style=for-the-badge&logo=jina&logoColor=white)](https://jina.ai/)
-[![LangChain](https://img.shields.io/badge/-LangChain-222222?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
-
-### 📊 Data Analysis & Visualization
-[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/-Seaborn-9A6DCE?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
-[![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/python/)
-
-### 🗄️ Databases & Data Tools
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![FAISS](https://img.shields.io/badge/-FAISS-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/facebookresearch/faiss)
-
-### 🚀 MLOps & Deployment
-[![Weights & Biases](https://img.shields.io/badge/-WandB-FFC0CB?style=for-the-badge&logo=weightsandbiases&logoColor=black)](https://wandb.ai/)
-[![Gradio](https://img.shields.io/badge/-Gradio-786DF0?style=for-the-badge&logo=gradio&logoColor=white)](https://gradio.app/)
-[![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
-### ☁️ Version Control & Development Environment
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)](https://colab.research.google.com/)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-
-
-
----
-<p>
-   <img  align="center" height="3px" width="99%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
-</p> 
-
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<p>
-   <img  align="center" height="3px" width="99%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
-</p> 
-
-## 📈 GitHub Stats
+- 🎓 CS Senior transitioning into full-time AI Research (NLP, LLMs, Agents).
+- 💻 Ex-Data Analyst. I care about building grounded, interpretable systems, not just maximizing benchmarks.
+- 🚀 Philosophy: *"Talk is cheap. Show me the code."* — Linus Torvalds
+- 🌐 Check my **pinned repositories** below to see my actual work, architectures, and implementations.
 
 <p align="center">
-  <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrnrxb&theme=radical&border=7F3FBF&background=0D1117"/>
+   <img align="center" height="3px" width="99%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
+</p> 
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/hamid-namjoo/" target="_blank">
+    <img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" height="48" width="48" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://huggingface.co/hrnrxb" target="_blank">
+    <img src="https://api.iconify.design/simple-icons:huggingface.svg?color=%23FFD21F" height="48" width="48" alt="HuggingFace" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://hrnrxb.medium.com/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:medium.svg?color=%23FFFFFF" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:medium.svg?color=%23000000" />
+      <img src="https://api.iconify.design/simple-icons:medium.svg?color=%23000000" height="48" width="48" alt="Medium" />
+    </picture>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.kaggle.com/hrnrxb" target="_blank">
+    <img src="https://api.iconify.design/simple-icons:kaggle.svg?color=%2320BEFF" height="48" width="48" alt="Kaggle" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/@HamidDidIt" target="_blank">
+    <img src="https://api.iconify.design/simple-icons:youtube.svg?color=%23FF0000" height="48" width="48" alt="YouTube" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/hrnrxb" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23FFFFFF" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:github.svg?color=%23181717" />
+      <img src="https://api.iconify.design/simple-icons:github.svg?color=%23181717" height="48" width="48" alt="GitHub" />
+    </picture>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:hamidrezanamjoomanesh@gmail.com" target="_blank">
+    <img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23EA4335" height="48" width="48" alt="Email" />
+  </a>
+
 </p>
 
 <p align="center">
-  <a href="https://github.com/hrnrxb">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrnrxb&theme=radical" alt="hrnrxb GitHub Contribution"/>
-  </a>
+   <img align="center" height="3px" width="99%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
+</p> 
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+#### 🤖 Agentic & LLM Systems
+<img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=langchain&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=langchain&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/CrewAI-0D1117?style=flat-square&logo=crewai&logoColor=E11A2B" height="28" />
+<img src="https://img.shields.io/badge/AutoGen-0D1117?style=flat-square&logo=microsoft&logoColor=0078D4" height="28" />
+<img src="https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=anthropic&logoColor=D97757" height="28" />
+<img src="https://img.shields.io/badge/DSPy-0D1117?style=flat-square&logo=stanford&logoColor=8C1B11" height="28" />
+<img src="https://img.shields.io/badge/LlamaIndex-0D1117?style=flat-square&logo=llamaindex&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Haystack-0D1117?style=flat-square&logo=haystack&logoColor=00798B" height="28" />
+<img src="https://img.shields.io/badge/FAISS-0D1117?style=flat-square&logo=facebook&logoColor=1877F2" height="28" />
+<img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logo=chroma&logoColor=FF6B35" height="28" />
+<img src="https://img.shields.io/badge/Qdrant-0D1117?style=flat-square&logo=qdrant&logoColor=DC2934" height="28" />
+<img src="https://img.shields.io/badge/Pinecone-0D1117?style=flat-square&logo=pinecone&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Weaviate-0D1117?style=flat-square&logo=weaviate&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Milvus-0D1117?style=flat-square&logo=milvus&logoColor=00A1EA" height="28" />
+<img src="https://img.shields.io/badge/vLLM-0D1117?style=flat-square&logo=vllm&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/llama.cpp-0D1117?style=flat-square&logo=meta&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Unsloth-0D1117?style=flat-square&logo=python&logoColor=FFD21F" height="28" />
+<img src="https://img.shields.io/badge/PEFT/LoRA-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21F" height="28" />
+<img src="https://img.shields.io/badge/DeepSpeed-0D1117?style=flat-square&logo=microsoft&logoColor=white" height="28" />
+
+#### 🧠 ML/DL Frameworks
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C" height="28" />
+<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00" height="28" />
+<img src="https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=D00000" height="28" />
+<img src="https://img.shields.io/badge/JAX-0D1117?style=flat-square&logo=google&logoColor=527FFF" height="28" />
+<img src="https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikit-learn&logoColor=F7931E" height="28" />
+<img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=006699" height="28" />
+<img src="https://img.shields.io/badge/LightGBM-0D1117?style=flat-square&logo=lightgbm&logoColor=026636" height="28" />
+<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21F" height="28" />
+<img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Anthropic-0D1117?style=flat-square&logo=anthropic&logoColor=D97757" height="28" />
+<img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=google&logoColor=4285F4" height="28" />
+<img src="https://img.shields.io/badge/Groq-0D1117?style=flat-square&logo=groq&logoColor=F55036" height="28" />
+<img src="https://img.shields.io/badge/Mistral-0D1117?style=flat-square&logo=mistralai&logoColor=FF7000" height="28" />
+<img src="https://img.shields.io/badge/LiteLLM-0D1117?style=flat-square&logo=openai&logoColor=white" height="28" />
+
+#### 🗣️ NLP & Speech
+<img src="https://img.shields.io/badge/spaCy-0D1117?style=flat-square&logo=spacy&logoColor=09A3D5" height="28" />
+<img src="https://img.shields.io/badge/NLTK-0D1117?style=flat-square&logo=nltk&logoColor=306998" height="28" />
+<img src="https://img.shields.io/badge/Gensim-0D1117?style=flat-square&logo=gensim&logoColor=666666" height="28" />
+<img src="https://img.shields.io/badge/Fairseq-0D1117?style=flat-square&logo=meta&logoColor=1E90FF" height="28" />
+<img src="https://img.shields.io/badge/Whisper-0D1117?style=flat-square&logo=openai&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Coqui%20TTS-0D1117?style=flat-square&logo=coqui&logoColor=FF4B4B" height="28" />
+<img src="https://img.shields.io/badge/librosa-0D1117?style=flat-square&logo=python&logoColor=008080" height="28" />
+<img src="https://img.shields.io/badge/SentenceTransformers-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21F" height="28" />
+
+#### 📊 Data & Analytics
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458" height="28" />
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=013243" height="28" />
+<img src="https://img.shields.io/badge/Polars-0D1117?style=flat-square&logo=polars&logoColor=CD792C" height="28" />
+<img src="https://img.shields.io/badge/DuckDB-0D1117?style=flat-square&logo=duckdb&logoColor=FFF000" height="28" />
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=matplotlib&logoColor=11557C" height="28" />
+<img src="https://img.shields.io/badge/Seaborn-0D1117?style=flat-square&logo=seaborn&logoColor=9A6DCE" height="28" />
+<img src="https://img.shields.io/badge/Plotly-0D1117?style=flat-square&logo=plotly&logoColor=3F4F75" height="28" />
+<img src="https://img.shields.io/badge/NetworkX-0D1117?style=flat-square&logo=networkx&logoColor=2C7FB8" height="28" />
+
+#### 🛠️ MLOps & Infrastructure
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" height="28" />
+<img src="https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=326CE5" height="28" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=github-actions&logoColor=2088FF" height="28" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" height="28" />
+<img src="https://img.shields.io/badge/Gradio-0D1117?style=flat-square&logo=gradio&logoColor=786DF0" height="28" />
+<img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B" height="28" />
+<img src="https://img.shields.io/badge/Ray-0D1117?style=flat-square&logo=ray&logoColor=028CF0" height="28" />
+<img src="https://img.shields.io/badge/MLflow-0D1117?style=flat-square&logo=mlflow&logoColor=0194E2" height="28" />
+<img src="https://img.shields.io/badge/W&B-0D1117?style=flat-square&logo=weightsandbiases&logoColor=FFCC33" height="28" />
+<img src="https://img.shields.io/badge/LangSmith-0D1117?style=flat-square&logo=langchain&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Arize%20Phoenix-0D1117?style=flat-square&logo=arize&logoColor=FF6B35" height="28" />
+<img src="https://img.shields.io/badge/Guardrails-0D1117?style=flat-square&logo=guardrails&logoColor=white" height="28" />
+
+#### 💻 Languages & Databases
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" height="28" />
+<img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=c%2B%2B&logoColor=00599C" height="28" />
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" height="28" />
+<img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnu-bash&logoColor=4EAA25" height="28" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" height="28" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" height="28" />
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" height="28" />
+<img src="https://img.shields.io/badge/Redis-0D1117?style=flat-square&logo=redis&logoColor=FF4438" height="28" />
+<img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=003B57" height="28" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032" height="28" />
+<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624" height="28" />
+<img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/GCP-0D1117?style=flat-square&logo=google-cloud&logoColor=4285F4" height="28" />
+
+#### 📚 Academic NLP Foundations
+<img src="https://img.shields.io/badge/TextBlob-222222?style=flat-square&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Pattern-222222?style=flat-square&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/CoreNLP-222222?style=flat-square&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Polyglot-222222?style=flat-square&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/GloVe-222222?style=flat-square&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Word2Vec-222222?style=flat-square&logoColor=white" height="24" />
+
+</div>
+
+<p align="center">
+   <img align="center" height="3px" width="99%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
+</p> 
+
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+</p>
+
+<p align="center">
+  <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrnrxb&theme=radical&border=7F3FBF&background=0D1117"/>
+  <img align="center" width="48%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hrnrxb&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/hrnrxb">
     <img alt="hrnrxb Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hrnrxb&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
-  </a><a href="https://github.com/hrnrxb">    
-    <img alt="hrnrxb's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hrnrxb&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
+  </a>
+  <a href="https://github.com/hrnrxb">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrnrxb&theme=radical" alt="hrnrxb GitHub Contribution" height="192px" width="49%"/>
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrnrxb&custom_title=hrnrxb's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Activity Graph" />
+</p>
 
-![hrnrxb Graph](https://github-readme-activity-graph.vercel.app/graph?username=hrnrxb&custom_title=hrnrxb's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hrnrxb/hrnrxb/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrnrxb/hrnrxb/output/github-contribution-grid-snake.svg" />
+      <img alt="Contribution Snake" src="https://raw.githubusercontent.com/hrnrxb/hrnrxb/output/github-contribution-grid-snake.svg" />
+    </picture>
+</p>
 
-
-
-## <img src="./image/fr.gif" width="30px" alt=""> GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hrnrxb&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-
+<p align="center">
+   <img align="center" height="3px" width="99%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
+</p> 
