@@ -92,12 +92,6 @@
 <img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=006699" height="28" />
 <img src="https://img.shields.io/badge/LightGBM-0D1117?style=flat-square&logo=lightgbm&logoColor=026636" height="28" />
 <img src="https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21F" height="28" />
-<img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Anthropic-0D1117?style=flat-square&logo=anthropic&logoColor=D97757" height="28" />
-<img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=google&logoColor=4285F4" height="28" />
-<img src="https://img.shields.io/badge/Groq-0D1117?style=flat-square&logo=groq&logoColor=F55036" height="28" />
-<img src="https://img.shields.io/badge/Mistral-0D1117?style=flat-square&logo=mistralai&logoColor=FF7000" height="28" />
-<img src="https://img.shields.io/badge/LiteLLM-0D1117?style=flat-square&logo=openai&logoColor=white" height="28" />
 
 #### 🗣️ NLP & Speech
 <img src="https://img.shields.io/badge/spaCy-0D1117?style=flat-square&logo=spacy&logoColor=09A3D5" height="28" />
@@ -193,6 +187,16 @@
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hrnrxb/hrnrxb/output/github-contribution-grid-snake.svg" />
       <img alt="Contribution Snake" src="https://raw.githubusercontent.com/hrnrxb/hrnrxb/output/github-contribution-grid-snake.svg" />
     </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hrnrxb&label=Profile%20Views&color=8B5CF6&style=for-the-badge&logo=eye&logoColor=white&abbreviated=true" alt="Profile Views" height="32"/>
+  &nbsp;&nbsp;
+  <img src="https://hits.sh/github.com/hrnrxb.svg?style=for-the-badge&label=Unique%20Visitors&color=EC4899&logo=google-analytics&logoColor=white" alt="Unique Visitors" height="32"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/hrnrxb?style=for-the-badge&logo=github&logoColor=white&color=10B981&label=Followers" alt="Followers" height="32"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/hrnrxb?style=for-the-badge&logo=starship&logoColor=white&color=F59E0B&label=Total%20Stars&affiliations=OWNER" alt="Total Stars" height="32"/>
 </p>
 
 <p align="center">
