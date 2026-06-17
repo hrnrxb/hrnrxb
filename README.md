@@ -23,7 +23,7 @@
     <img src="https://api.iconify.design/simple-icons:huggingface.svg?color=%23FFD21F" height="48" width="48" alt="HuggingFace" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://hrnrxb.medium.com/" target="_blank">
+  <a href="https://hdidit.medium.com/" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:medium.svg?color=%23FFFFFF" />
       <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:medium.svg?color=%23000000" />
