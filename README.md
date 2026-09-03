@@ -2,10 +2,11 @@
 
 ## 🔬 About Me
 
-- 🎓 CS Senior transitioning into full-time AI Research (NLP, LLMs, Agents).
+- 🎓 BSc in Computer Engineering. Building AI that collaborates, not just automates.
+- 🧐 Obsessed with NLP, HCI, and reasoning — where perception meets human intent.
 - 💻 Ex-Data Analyst. I care about building grounded, interpretable systems, not just maximizing benchmarks.
 - 🚀 Philosophy: *"Talk is cheap. Show me the code."* — Linus Torvalds
-- 🌐 Check my **pinned repositories** below to see my actual work, architectures, and implementations.
+- 🌐 Explore my **pinned repositories** below for hands-on architectures and implementations.
 
 <p align="center">
    <img align="center" height="3px" width="99%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
