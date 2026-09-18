@@ -1,53 +1,377 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="1200" height="22" viewBox="0 0 1200 22"
-     fill="none" role="img"
-     class="rd-axis"
-     aria-label="Minimal academic divider">
+     width="1200"
+     height="40"
+     viewBox="0 0 1200 40"
+     fill="none"
+     role="img"
+     aria-labelledby="rd-title rd-desc"
+     preserveAspectRatio="xMidYMid meet"
+     class="rd-axis-divider">
+
+  <title id="rd-title">Academic Measurement Baseline</title>
+  <desc id="rd-desc">
+    A precision divider rendered as a scientific measurement axis.
+    Harmonically spaced graduation marks at 5, 10, 20, 50, 100, and 300
+    pixel intervals build a ruled texture, anchored by a centered
+    surveyor's reference mark in a single restrained accent color.
+  </desc>
 
   <style>
-    .rd-axis { --rd-ink:#0f172a; --rd-accent:#4f46e5; }
+    .rd-axis-divider {
+      --rd-ink-950: #050810;
+      --rd-ink-900: #0a0f1e;
+      --rd-ink-800: #101a2f;
+      --rd-ink-700: #1c2a42;
+      --rd-ink-600: #334155;
+      --rd-ink-500: #64748b;
+      --rd-ink-400: #94a3b8;
+      --rd-ink-300: #cbd5e1;
+
+      --rd-accent-900: #1e1b4b;
+      --rd-accent-800: #282566;
+      --rd-accent-700: #312e81;
+      --rd-accent-600: #3730a3;
+      --rd-accent-500: #4f46e5;
+      --rd-accent-400: #6366f1;
+      --rd-accent-300: #818cf8;
+      --rd-accent-200: #a5b4fc;
+      --rd-accent-100: #c7d2fe;
+
+      --rd-c-baseline:     var(--rd-ink-800);
+      --rd-c-ticks:        var(--rd-ink-800);
+      --rd-c-anchor:       var(--rd-accent-500);
+      --rd-c-glow:         var(--rd-accent-400);
+      --rd-c-underglow:    var(--rd-ink-800);
+
+      --rd-o-ambient:      0.05;
+      --rd-o-underglow:    0.10;
+      --rd-o-baseline:     0.42;
+      --rd-o-micro:        0.070;
+      --rd-o-mini:         0.110;
+      --rd-o-small:        0.170;
+      --rd-o-medium:       0.260;
+      --rd-o-major:        0.400;
+      --rd-o-reference:    0.550;
+      --rd-o-terminal:     0.640;
+      --rd-o-crosshair:    0.480;
+      --rd-o-ring-outer:   0.140;
+      --rd-o-ring-inner:   0.300;
+      --rd-o-dot-core:     0.920;
+    }
+
     @media (prefers-color-scheme: dark) {
-      .rd-axis { --rd-ink:#e2e8f0; --rd-accent:#818cf8; }
+      .rd-axis-divider {
+        --rd-ink-950: #f8fafc;
+        --rd-ink-900: #f1f5f9;
+        --rd-ink-800: #e2e8f0;
+        --rd-ink-700: #cbd5e1;
+        --rd-ink-600: #94a3b8;
+        --rd-ink-500: #64748b;
+        --rd-ink-400: #475569;
+        --rd-ink-300: #334155;
+
+        --rd-accent-900: #eef2ff;
+        --rd-accent-800: #e0e7ff;
+        --rd-accent-700: #c7d2fe;
+        --rd-accent-600: #a5b4fc;
+        --rd-accent-500: #818cf8;
+        --rd-accent-400: #6366f1;
+        --rd-accent-300: #4f46e5;
+        --rd-accent-200: #4338ca;
+        --rd-accent-100: #3730a3;
+
+        --rd-o-ambient:      0.070;
+        --rd-o-underglow:    0.120;
+        --rd-o-baseline:     0.500;
+        --rd-o-micro:        0.090;
+        --rd-o-mini:         0.130;
+        --rd-o-small:        0.200;
+        --rd-o-medium:       0.300;
+        --rd-o-major:        0.440;
+        --rd-o-reference:    0.580;
+        --rd-o-terminal:     0.680;
+        --rd-o-crosshair:    0.520;
+        --rd-o-ring-outer:   0.180;
+        --rd-o-ring-inner:   0.340;
+        --rd-o-dot-core:     0.950;
+      }
+    }
+
+    .rd-axis-divider[data-theme="light"],
+    .rd-force-light .rd-axis-divider {
+      --rd-ink-950: #050810;
+      --rd-ink-900: #0a0f1e;
+      --rd-ink-800: #101a2f;
+      --rd-ink-700: #1c2a42;
+      --rd-ink-600: #334155;
+      --rd-ink-500: #64748b;
+      --rd-ink-400: #94a3b8;
+      --rd-ink-300: #cbd5e1;
+      --rd-accent-900: #1e1b4b;
+      --rd-accent-800: #282566;
+      --rd-accent-700: #312e81;
+      --rd-accent-600: #3730a3;
+      --rd-accent-500: #4f46e5;
+      --rd-accent-400: #6366f1;
+      --rd-accent-300: #818cf8;
+      --rd-accent-200: #a5b4fc;
+      --rd-accent-100: #c7d2fe;
+    }
+
+    .rd-axis-divider[data-theme="dark"],
+    .rd-force-dark .rd-axis-divider {
+      --rd-ink-950: #f8fafc;
+      --rd-ink-900: #f1f5f9;
+      --rd-ink-800: #e2e8f0;
+      --rd-ink-700: #cbd5e1;
+      --rd-ink-600: #94a3b8;
+      --rd-ink-500: #64748b;
+      --rd-ink-400: #475569;
+      --rd-ink-300: #334155;
+      --rd-accent-900: #eef2ff;
+      --rd-accent-800: #e0e7ff;
+      --rd-accent-700: #c7d2fe;
+      --rd-accent-600: #a5b4fc;
+      --rd-accent-500: #818cf8;
+      --rd-accent-400: #6366f1;
+      --rd-accent-300: #4f46e5;
+      --rd-accent-200: #4338ca;
+      --rd-accent-100: #3730a3;
+      --rd-o-baseline:     0.500;
+      --rd-o-micro:        0.090;
+      --rd-o-mini:         0.130;
+      --rd-o-small:        0.200;
+      --rd-o-medium:       0.300;
+      --rd-o-major:        0.440;
+      --rd-o-reference:    0.580;
+      --rd-o-terminal:     0.680;
+    }
+
+    @media (prefers-contrast: more) {
+      .rd-axis-divider {
+        --rd-o-baseline:     0.85;
+        --rd-o-micro:        0.20;
+        --rd-o-mini:         0.30;
+        --rd-o-small:        0.42;
+        --rd-o-medium:       0.58;
+        --rd-o-major:        0.75;
+        --rd-o-reference:    0.90;
+        --rd-o-terminal:     0.95;
+        --rd-o-crosshair:    0.85;
+        --rd-o-ring-outer:   0.40;
+        --rd-o-ring-inner:   0.60;
+      }
+    }
+
+    @media print {
+      .rd-axis-divider {
+        --rd-ink-800: #000000;
+        --rd-accent-500: #000000;
+        --rd-accent-400: #000000;
+        --rd-o-baseline:     0.55;
+        --rd-o-micro:        0.15;
+        --rd-o-mini:         0.22;
+        --rd-o-small:        0.32;
+        --rd-o-medium:       0.48;
+        --rd-o-major:        0.65;
+        --rd-o-reference:    0.80;
+        --rd-o-terminal:     0.85;
+        --rd-o-glow:         0;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .rd-axis-divider * {
+        animation: none !important;
+        transition: none !important;
+      }
     }
   </style>
 
   <defs>
-    <linearGradient id="rdFade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0"    stop-color="#fff" stop-opacity="0"/>
-      <stop offset="0.16" stop-color="#fff" stop-opacity="1"/>
-      <stop offset="0.84" stop-color="#fff" stop-opacity="1"/>
-      <stop offset="1"    stop-color="#fff" stop-opacity="0"/>
+    <radialGradient id="rd-grad-ambient" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%"   stop-color="var(--rd-c-glow)" stop-opacity="0.22"/>
+      <stop offset="25%"  stop-color="var(--rd-c-glow)" stop-opacity="0.10"/>
+      <stop offset="55%"  stop-color="var(--rd-c-glow)" stop-opacity="0.028"/>
+      <stop offset="85%"  stop-color="var(--rd-c-glow)" stop-opacity="0.006"/>
+      <stop offset="100%" stop-color="var(--rd-c-glow)" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="rd-grad-underglow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%"   stop-color="var(--rd-c-underglow)" stop-opacity="0.28"/>
+      <stop offset="20%"  stop-color="var(--rd-c-underglow)" stop-opacity="0.20"/>
+      <stop offset="45%"  stop-color="var(--rd-c-underglow)" stop-opacity="0.10"/>
+      <stop offset="70%"  stop-color="var(--rd-c-underglow)" stop-opacity="0.032"/>
+      <stop offset="90%"  stop-color="var(--rd-c-underglow)" stop-opacity="0.006"/>
+      <stop offset="100%" stop-color="var(--rd-c-underglow)" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="rd-grad-anchor-halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%"   stop-color="var(--rd-c-anchor)" stop-opacity="0.30"/>
+      <stop offset="30%"  stop-color="var(--rd-c-anchor)" stop-opacity="0.14"/>
+      <stop offset="60%"  stop-color="var(--rd-c-anchor)" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="var(--rd-c-anchor)" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="rd-grad-baseline-edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0"     stop-color="var(--rd-c-baseline)" stop-opacity="0"/>
+      <stop offset="0.008" stop-color="var(--rd-c-baseline)" stop-opacity="1"/>
+      <stop offset="0.992" stop-color="var(--rd-c-baseline)" stop-opacity="1"/>
+      <stop offset="1"     stop-color="var(--rd-c-baseline)" stop-opacity="0"/>
     </linearGradient>
 
-    <mask id="rdMask" maskUnits="userSpaceOnUse"
-          x="0" y="0" width="1200" height="22">
-      <rect width="1200" height="22" fill="url(#rdFade)"/>
+    <mask id="rd-mask-edge" maskUnits="userSpaceOnUse"
+          x="0" y="0" width="1200" height="40">
+      <rect width="1200" height="40" fill="url(#rd-grad-baseline-edge)"/>
     </mask>
 
-  
-    <pattern id="rdMicro" width="20" height="22" patternUnits="userSpaceOnUse">
-      <line x1="0.5" y1="15.5" x2="0.5" y2="12"
-            stroke="var(--rd-ink)" stroke-width="1" stroke-opacity="0.20"/>
+    <pattern id="rd-pat-tick-5"
+             width="5" height="40"
+             patternUnits="userSpaceOnUse">
+      <line x1="0.5" y1="28" x2="0.5" y2="26.75"
+            stroke="var(--rd-c-ticks)"
+            stroke-width="0.75"
+            stroke-opacity="var(--rd-o-micro)"
+            stroke-linecap="butt"/>
     </pattern>
 
-  
-    <pattern id="rdMajor" width="100" height="22" patternUnits="userSpaceOnUse">
-      <line x1="0.5" y1="15.5" x2="0.5" y2="9"
-            stroke="var(--rd-ink)" stroke-width="1" stroke-opacity="0.42"/>
+    <pattern id="rd-pat-tick-10"
+             width="10" height="40"
+             patternUnits="userSpaceOnUse">
+      <line x1="0.5" y1="28" x2="0.5" y2="26"
+            stroke="var(--rd-c-ticks)"
+            stroke-width="0.875"
+            stroke-opacity="var(--rd-o-mini)"
+            stroke-linecap="butt"/>
+    </pattern>
+
+    <pattern id="rd-pat-tick-20"
+             width="20" height="40"
+             patternUnits="userSpaceOnUse">
+      <line x1="0.5" y1="28" x2="0.5" y2="24.5"
+            stroke="var(--rd-c-ticks)"
+            stroke-width="1"
+            stroke-opacity="var(--rd-o-small)"
+            stroke-linecap="butt"/>
+    </pattern>
+
+    <pattern id="rd-pat-tick-50"
+             width="50" height="40"
+             patternUnits="userSpaceOnUse">
+      <line x1="0.5" y1="28" x2="0.5" y2="22.5"
+            stroke="var(--rd-c-ticks)"
+            stroke-width="1"
+            stroke-opacity="var(--rd-o-medium)"
+            stroke-linecap="butt"/>
+    </pattern>
+
+    <pattern id="rd-pat-tick-100"
+             width="100" height="40"
+             patternUnits="userSpaceOnUse">
+      <line x1="0.5" y1="28" x2="0.5" y2="19"
+            stroke="var(--rd-c-ticks)"
+            stroke-width="1"
+            stroke-opacity="var(--rd-o-major)"
+            stroke-linecap="butt"/>
     </pattern>
   </defs>
 
-
-  <g mask="url(#rdMask)">
-    <line x1="0" y1="15.5" x2="1200" y2="15.5"
-          stroke="var(--rd-ink)" stroke-width="1" stroke-opacity="0.50"/>
-    <rect width="1200" height="22" fill="url(#rdMicro)"/>
-    <rect width="1200" height="22" fill="url(#rdMajor)"/>
+  <g class="rd-layer rd-layer-ambient" aria-hidden="true">
+    <ellipse cx="600" cy="28"
+             rx="480" ry="30"
+             fill="url(#rd-grad-ambient)"
+             opacity="var(--rd-o-ambient)"/>
   </g>
 
+  <g class="rd-layer rd-layer-underglow"
+     mask="url(#rd-mask-edge)"
+     aria-hidden="true">
+    <ellipse cx="600" cy="28"
+             rx="620" ry="3.6"
+             fill="url(#rd-grad-underglow)"
+             opacity="var(--rd-o-underglow)"/>
+  </g>
 
-  <circle cx="600" cy="15.5" r="5.5"
-          fill="var(--rd-accent)" fill-opacity="0.12"/>
-  <circle cx="600" cy="15.5" r="1.75"
-          fill="var(--rd-accent)"/>
+  <g class="rd-layer rd-layer-baseline" aria-hidden="true">
+    <line x1="0" y1="28.5" x2="1200" y2="28.5"
+          stroke="var(--rd-c-baseline)"
+          stroke-width="1"
+          stroke-opacity="var(--rd-o-baseline)"
+          stroke-linecap="butt"
+          shape-rendering="geometricPrecision"/>
+  </g>
+
+  <g class="rd-layer rd-layer-ticks" aria-hidden="true"
+     shape-rendering="geometricPrecision">
+    <rect x="0" y="0" width="1200" height="40"
+          fill="url(#rd-pat-tick-5)"/>
+    <rect x="0" y="0" width="1200" height="40"
+          fill="url(#rd-pat-tick-10)"/>
+    <rect x="0" y="0" width="1200" height="40"
+          fill="url(#rd-pat-tick-20)"/>
+    <rect x="0" y="0" width="1200" height="40"
+          fill="url(#rd-pat-tick-50)"/>
+    <rect x="0" y="0" width="1200" height="40"
+          fill="url(#rd-pat-tick-100)"/>
+  </g>
+
+  <g class="rd-layer rd-layer-reference" aria-hidden="true"
+     shape-rendering="geometricPrecision">
+    <line x1="300.5" y1="28" x2="300.5" y2="14"
+          stroke="var(--rd-c-ticks)"
+          stroke-width="1"
+          stroke-opacity="var(--rd-o-reference)"
+          stroke-linecap="butt"/>
+    <line x1="900.5" y1="28" x2="900.5" y2="14"
+          stroke="var(--rd-c-ticks)"
+          stroke-width="1"
+          stroke-opacity="var(--rd-o-reference)"
+          stroke-linecap="butt"/>
+  </g>
+
+  <g class="rd-layer rd-layer-terminals" aria-hidden="true"
+     shape-rendering="geometricPrecision">
+    <line x1="0.5" y1="28" x2="0.5" y2="13"
+          stroke="var(--rd-c-ticks)"
+          stroke-width="1"
+          stroke-opacity="var(--rd-o-terminal)"
+          stroke-linecap="butt"/>
+    <line x1="1199.5" y1="28" x2="1199.5" y2="13"
+          stroke="var(--rd-c-ticks)"
+          stroke-width="1"
+          stroke-opacity="var(--rd-o-terminal)"
+          stroke-linecap="butt"/>
+  </g>
+
+  <g class="rd-layer rd-layer-anchor"
+     transform="translate(600 0)"
+     aria-hidden="true"
+     shape-rendering="geometricPrecision">
+
+    <ellipse cx="0.5" cy="28"
+             rx="52" ry="16"
+             fill="url(#rd-grad-anchor-halo)"/>
+
+    <line x1="0.5" y1="14" x2="0.5" y2="28"
+          stroke="var(--rd-c-anchor)"
+          stroke-width="1"
+          stroke-opacity="var(--rd-o-crosshair)"
+          stroke-linecap="butt"/>
+
+    <line x1="-13.75" y1="28.5" x2="14.25" y2="28.5"
+          stroke="var(--rd-c-anchor)"
+          stroke-width="0.75"
+          stroke-opacity="var(--rd-o-crosshair)"
+          stroke-linecap="butt"/>
+
+    <circle cx="0.5" cy="28" r="5"
+            fill="none"
+            stroke="var(--rd-c-anchor)"
+            stroke-width="0.75"
+            stroke-opacity="var(--rd-o-ring-outer)"/>
+
+    <circle cx="0.5" cy="28" r="1.5"
+            fill="var(--rd-c-anchor)"
+            fill-opacity="var(--rd-o-dot-core)"/>
+  </g>
 </svg>
