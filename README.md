@@ -9,7 +9,7 @@
 - 🌐 Explore my **pinned repositories** below for hands-on architectures and implementations.
 
 <p align="center">
-   <img align="center" height="3px" width="99%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
+  <img src="./assets/divider.svg" width="99%" alt="">
 </p> 
 
 ## 🌐 Connect With Me
@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-   <img align="center" height="3px" width="99%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
+  <img src="./assets/divider.svg" width="99%" alt="">
 </p> 
 
 ## 🛠️ Technical Arsenal
@@ -155,7 +155,7 @@
 </div>
 
 <p align="center">
-   <img align="center" height="3px" width="99%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
+  <img src="./assets/divider.svg" width="99%" alt="">
 </p> 
 
 ## 📈 GitHub Stats & Activity
@@ -179,5 +179,5 @@
 </p>
 
 <p align="center">
-   <img align="center" height="3px" width="99%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d" />
-</p> 
+  <img src="./assets/divider.svg" width="99%" alt="">
+</p>
